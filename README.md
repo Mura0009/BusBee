@@ -1,2 +1,5 @@
 # BusBee
-BusBee is a Node project.
+BusBee Repo
+
+- Added Travis CI
+- Checking deployment
